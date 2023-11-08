@@ -1,0 +1,16 @@
+C:\Users\nauber.gdsouza\source\repos\GerenciadorOVNI\GerenciadorOVNI\bin\Debug\GerenciadorOVNI.exe.config
+C:\Users\nauber.gdsouza\source\repos\GerenciadorOVNI\GerenciadorOVNI\bin\Debug\GerenciadorOVNI.exe
+C:\Users\nauber.gdsouza\source\repos\GerenciadorOVNI\GerenciadorOVNI\bin\Debug\GerenciadorOVNI.pdb
+C:\Users\nauber.gdsouza\source\repos\GerenciadorOVNI\GerenciadorOVNI\obj\Debug\GerenciadorOVNI.csproj.AssemblyReference.cache
+C:\Users\nauber.gdsouza\source\repos\GerenciadorOVNI\GerenciadorOVNI\obj\Debug\GerenciadorOVNI.csproj.SuggestedBindingRedirects.cache
+C:\Users\nauber.gdsouza\source\repos\GerenciadorOVNI\GerenciadorOVNI\obj\Debug\GerenciadorOVNI.Form1.resources
+C:\Users\nauber.gdsouza\source\repos\GerenciadorOVNI\GerenciadorOVNI\obj\Debug\GerenciadorOVNI.Properties.Resources.resources
+C:\Users\nauber.gdsouza\source\repos\GerenciadorOVNI\GerenciadorOVNI\obj\Debug\GerenciadorOVNI.csproj.GenerateResource.cache
+C:\Users\nauber.gdsouza\source\repos\GerenciadorOVNI\GerenciadorOVNI\obj\Debug\GerenciadorOVNI.csproj.CoreCompileInputs.cache
+C:\Users\nauber.gdsouza\source\repos\GerenciadorOVNI\GerenciadorOVNI\obj\Debug\GerenciadorOVNI.exe
+C:\Users\nauber.gdsouza\source\repos\GerenciadorOVNI\GerenciadorOVNI\obj\Debug\GerenciadorOVNI.pdb
+C:\Users\nauber.gdsouza\source\repos\GerenciadorOVNI\GerenciadorOVNI\obj\Debug\GerenciadorOVNI.Inicializador.resources
+C:\Users\nauber.gdsouza\source\repos\GerenciadorOVNI\GerenciadorOVNI\bin\Debug\BibliotecaOVNI.dll
+C:\Users\nauber.gdsouza\source\repos\GerenciadorOVNI\GerenciadorOVNI\bin\Debug\BibliotecaOVNI.pdb
+C:\Users\nauber.gdsouza\source\repos\GerenciadorOVNI\GerenciadorOVNI\obj\Debug\GerenciadorOVNI.csproj.CopyComplete
+C:\Users\nauber.gdsouza\source\repos\GerenciadorOVNI\GerenciadorOVNI\obj\Debug\GerenciadorOVNI.Painel.resources
